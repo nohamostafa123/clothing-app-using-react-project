@@ -1,0 +1,7 @@
+.myImage{
+    object-fit: contain;
+    height: 200px;
+}
+.edit-d{
+    flex-grow: 1;
+}
